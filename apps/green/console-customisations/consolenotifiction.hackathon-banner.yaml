@@ -6,7 +6,7 @@ spec:
   text: Welcome to the Argo CD managed Green Team OpenShift cluster for the Summit Connect Hackathon!
   location: BannerTop 
   link:
-    href: 'https://github.com/redhat-scholars/quickstart-workshop/tree/master/apps/green'
-    text: (View Code for the Green Team Cluster)
+    href: 'https://github.com/ArctiqTeam/openshift-automation-example'
+    text: (Check code to deploy and configure OpenShift on GCP automatiocally)
   color: '#fafafa'
   backgroundColor: '#16a34a'
